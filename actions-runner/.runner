@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "vault-snapshot",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/xeavZiFHSbPQG9fmAvElkUMN6xRkZapGW6EUopjMY5RAxfw5nx",
+  "gitHubUrl": "https://github.com/sherylann-hc/vault-action-snapshot",
+  "workFolder": "_work"
+}

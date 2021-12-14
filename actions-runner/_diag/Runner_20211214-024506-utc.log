@@ -1,0 +1,128 @@
+[2021-12-14 02:45:06Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'Credentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'Runner': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2021-12-14 02:45:06Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-12-14 02:45:06Z INFO Listener] RuntimeInformation: Darwin 20.6.0 Darwin Kernel Version 20.6.0: Mon Aug 30 06:12:21 PDT 2021; root:xnu-7195.141.6~3/RELEASE_X86_64.
+[2021-12-14 02:45:06Z INFO Listener] Version: 2.285.1
+[2021-12-14 02:45:06Z INFO Listener] Commit: 50afba61b40932c1084e31b5e9e7f5af325cc2ac
+[2021-12-14 02:45:06Z INFO Listener] Culture: en-GB
+[2021-12-14 02:45:06Z INFO Listener] UI Culture: en-GB
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO Listener] Validating directory permissions for: '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO CommandLineParser] Parse
+[2021-12-14 02:45:06Z INFO CommandLineParser] Parsing 1 args
+[2021-12-14 02:45:06Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:45:06Z INFO CommandLineParser] HasArgs: False
+[2021-12-14 02:45:06Z INFO CommandLineParser] Adding Command: run
+[2021-12-14 02:45:06Z INFO Listener] Arguments parsed
+[2021-12-14 02:45:06Z INFO Runner] ExecuteCommand
+[2021-12-14 02:45:06Z INFO ConfigurationStore] currentAssemblyLocation: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin/Runner.Listener.dll
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] binPath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] RootFolder: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'Runner': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] ConfigFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'Credentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] CredFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] MigratedCredFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'Service': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.service'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.service
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'help': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'version': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'check': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Command 'configure': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Command 'remove': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Command 'warmup': 'False'
+[2021-12-14 02:45:06Z INFO ConfigurationManager] LoadSettings
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured()
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-14 02:45:06Z INFO ConfigurationManager] Is configured: True
+[2021-12-14 02:45:06Z INFO ConfigurationStore] Read setting file: 305 chars
+[2021-12-14 02:45:06Z INFO ConfigurationManager] Settings Loaded
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsServiceConfigured()
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsServiceConfigured: False
+[2021-12-14 02:45:06Z INFO CommandSettings] Command 'run': 'True'
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured()
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-14 02:45:06Z INFO ConfigurationManager] Is configured: True
+[2021-12-14 02:45:06Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2021-12-14 02:45:06Z INFO Runner] Set runner startup type - Manual
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-14 02:45:06Z INFO CommandSettings] Flag 'once': 'False'
+[2021-12-14 02:45:06Z INFO Runner] RunAsync
+[2021-12-14 02:45:06Z INFO ConfigurationManager] LoadSettings
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured()
+[2021-12-14 02:45:06Z INFO ConfigurationStore] IsConfigured: True
+[2021-12-14 02:45:06Z INFO ConfigurationManager] Is configured: True
+[2021-12-14 02:45:06Z INFO ConfigurationManager] Settings Loaded
+[2021-12-14 02:45:06Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "vault-snapshot",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/xeavZiFHSbPQG9fmAvElkUMN6xRkZapGW6EUopjMY5RAxfw5nx",
+  "GitHubUrl": "https://github.com/sherylann-hc/vault-action-snapshot",
+  "WorkFolder": "_work"
+}
+[2021-12-14 02:45:06Z INFO MessageListener] Loading Credentials
+[2021-12-14 02:45:06Z INFO ConfigurationStore] HasCredentials()
+[2021-12-14 02:45:06Z INFO ConfigurationStore] stored True
+[2021-12-14 02:45:06Z INFO CredentialManager] GetCredentialProvider
+[2021-12-14 02:45:06Z INFO CredentialManager] Creating type OAuth
+[2021-12-14 02:45:06Z INFO CredentialManager] Creating credential type: OAuth
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:45:06Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:45:06Z INFO HostContext] Well known config file 'RSACredentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2021-12-14 02:45:06Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:45:06Z INFO MessageListener] Attempt to create session.
+[2021-12-14 02:45:06Z INFO MessageListener] Connecting to the Runner Server...
+[2021-12-14 02:45:06Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-14 02:45:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:45:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:45:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:45:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:45:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:45:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:45:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:45:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:45:07Z INFO MessageListener] VssConnection created
+[2021-12-14 02:45:07Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:45:07Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:45:08Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 067eb8b4-67b1-4e8c-ba97-c437c1955449
+ActivityId: e0d39574-7f31-4e1b-8c8c-28bd8dd8dc4f
+X-TFS-Session: 767327d6-3cc6-4c1e-aab1-b73867dd45f5
+X-VSS-E2EID: 619c7c06-bbfc-4086-bd3f-b8b84d4926d8
+X-VSS-SenderDeploymentId: a07ab14e-025a-39c3-8d53-788cd7ce207f
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: CAB611F726074826AB9E146A2FE2DE32 Ref B: SGEEDGE0714 Ref C: 2021-12-14T02:45:07Z
+Date: Tue, 14 Dec 2021 02:45:07 GMT
+
+[2021-12-14 02:45:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:45:08Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:45:09Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-12-14 02:45:09Z INFO MessageListener] Session created.
+[2021-12-14 02:45:09Z INFO Terminal] WRITE LINE: Current runner version: '2.285.1'
+[2021-12-14 02:45:09Z INFO Terminal] WRITE LINE: 2021-12-14 02:45:09Z: Listening for Jobs
+[2021-12-14 02:45:09Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.

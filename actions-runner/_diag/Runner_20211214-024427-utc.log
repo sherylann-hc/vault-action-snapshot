@@ -1,0 +1,220 @@
+[2021-12-14 02:44:27Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-12-14 02:44:27Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:27Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:27Z INFO HostContext] Well known config file 'Credentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2021-12-14 02:44:27Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:27Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:27Z INFO HostContext] Well known config file 'Runner': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2021-12-14 02:44:28Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2021-12-14 02:44:28Z INFO Listener] RuntimeInformation: Darwin 20.6.0 Darwin Kernel Version 20.6.0: Mon Aug 30 06:12:21 PDT 2021; root:xnu-7195.141.6~3/RELEASE_X86_64.
+[2021-12-14 02:44:28Z INFO Listener] Version: 2.285.1
+[2021-12-14 02:44:28Z INFO Listener] Commit: 50afba61b40932c1084e31b5e9e7f5af325cc2ac
+[2021-12-14 02:44:28Z INFO Listener] Culture: en-GB
+[2021-12-14 02:44:28Z INFO Listener] UI Culture: en-GB
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO Listener] Validating directory permissions for: '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO CommandLineParser] Parse
+[2021-12-14 02:44:28Z INFO CommandLineParser] Parsing 5 args
+[2021-12-14 02:44:28Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:44:28Z INFO CommandLineParser] HasArgs: False
+[2021-12-14 02:44:28Z INFO CommandLineParser] Adding Command: configure
+[2021-12-14 02:44:28Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:44:28Z INFO CommandLineParser] HasArgs: True
+[2021-12-14 02:44:28Z INFO CommandLineParser] arg: url
+[2021-12-14 02:44:28Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:44:28Z INFO CommandLineParser] HasArgs: True
+[2021-12-14 02:44:28Z INFO CommandLineParser] Adding option 'url': 'https://github.com/sherylann-hc/vault-action-snapshot'
+[2021-12-14 02:44:28Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:44:28Z INFO CommandLineParser] HasArgs: True
+[2021-12-14 02:44:28Z INFO CommandLineParser] arg: token
+[2021-12-14 02:44:28Z INFO CommandLineParser] parsing argument
+[2021-12-14 02:44:28Z INFO CommandLineParser] HasArgs: True
+[2021-12-14 02:44:28Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-12-14 02:44:28Z INFO Listener] Arguments parsed
+[2021-12-14 02:44:28Z INFO Runner] ExecuteCommand
+[2021-12-14 02:44:28Z INFO ConfigurationStore] currentAssemblyLocation: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin/Runner.Listener.dll
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] binPath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] RootFolder: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO HostContext] Well known config file 'Runner': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] ConfigFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.runner
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO HostContext] Well known config file 'Credentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] CredFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] MigratedCredFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:28Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:28Z INFO HostContext] Well known config file 'Service': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.service'
+[2021-12-14 02:44:28Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.service
+[2021-12-14 02:44:28Z INFO CommandSettings] Flag 'help': 'False'
+[2021-12-14 02:44:28Z INFO CommandSettings] Flag 'version': 'False'
+[2021-12-14 02:44:28Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-12-14 02:44:28Z INFO CommandSettings] Flag 'check': 'False'
+[2021-12-14 02:44:28Z INFO CommandSettings] Command 'configure': 'True'
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE: |                       
+[2021-12-14 02:44:28Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE:                         |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-12-14 02:44:28Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-12-14 02:44:28Z INFO ConfigurationManager] ConfigureAsync
+[2021-12-14 02:44:28Z INFO ConfigurationStore] IsConfigured()
+[2021-12-14 02:44:28Z INFO ConfigurationStore] IsConfigured: False
+[2021-12-14 02:44:28Z INFO ConfigurationManager] Is configured: False
+[2021-12-14 02:44:28Z INFO CommandSettings] Arg 'url': 'https://github.com/sherylann-hc/vault-action-snapshot'
+[2021-12-14 02:44:28Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-12-14 02:44:28Z INFO CommandSettings] Arg 'token': '***'
+[2021-12-14 02:44:28Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-12-14 02:44:34Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-12-14 02:44:35Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-12-14 02:44:35Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-14 02:44:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:44:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:36Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:44:36Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:39Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:39Z INFO ConfigurationManager] Test Connection complete.
+[2021-12-14 02:44:39Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:39Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:39Z INFO HostContext] Well known config file 'RSACredentials': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2021-12-14 02:44:39Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-12-14 02:44:39Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:44:39Z INFO RSAFileKeyManager] Which: 'chmod'
+[2021-12-14 02:44:39Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2021-12-14 02:44:39Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:39Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper] Starting process:
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Working directory: '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper] Process started with process id 57153, waiting for process exit.
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-14 02:44:40Z INFO ProcessInvokerWrapper] Finished process 57153 with exit code 0, and elapsed time 00:00:00.0161127.
+[2021-12-14 02:44:40Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:44:40Z INFO CommandSettings] Arg 'runnergroup': ''
+[2021-12-14 02:44:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-14 02:44:40Z INFO PromptManager] ReadValue
+[2021-12-14 02:44:40Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2021-12-14 02:44:40Z INFO Terminal] WRITE: [press Enter for Default] 
+[2021-12-14 02:44:40Z INFO Terminal] READ LINE
+[2021-12-14 02:44:45Z INFO Terminal] Read value: ''
+[2021-12-14 02:44:45Z INFO PromptManager] Falling back to the default: 'Default'
+[2021-12-14 02:44:45Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:45Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2021-12-14 02:44:45Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2021-12-14 02:44:45Z INFO CommandSettings] Arg 'name': ''
+[2021-12-14 02:44:45Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-14 02:44:45Z INFO PromptManager] ReadValue
+[2021-12-14 02:44:45Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-12-14 02:44:45Z INFO Terminal] WRITE: [press Enter for sheryl-annlee-C02FL2KJMD6R] 
+[2021-12-14 02:44:45Z INFO Terminal] READ LINE
+[2021-12-14 02:44:49Z INFO Terminal] Read value: 'vault-snapshot'
+[2021-12-14 02:44:49Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:49Z INFO CommandSettings] Arg 'labels': ''
+[2021-12-14 02:44:49Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-14 02:44:49Z INFO PromptManager] ReadValue
+[2021-12-14 02:44:49Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-12-14 02:44:49Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-12-14 02:44:49Z INFO Terminal] READ LINE
+[2021-12-14 02:44:52Z INFO Terminal] Read value: 'vault'
+[2021-12-14 02:44:52Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:52Z INFO ConfigurationStore] Saving OAuth credential @ /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2021-12-14 02:44:52Z INFO ConfigurationStore] Credentials Saved.
+[2021-12-14 02:44:52Z INFO ConfigurationStore] HasCredentials()
+[2021-12-14 02:44:52Z INFO ConfigurationStore] stored True
+[2021-12-14 02:44:52Z INFO CredentialManager] GetCredentialProvider
+[2021-12-14 02:44:52Z INFO CredentialManager] Creating type OAuth
+[2021-12-14 02:44:52Z INFO CredentialManager] Creating credential type: OAuth
+[2021-12-14 02:44:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:44:52Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-12-14 02:44:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:44:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:52Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-12-14 02:44:52Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-12-14 02:44:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:53Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-12-14 02:44:54Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: cc05285e-ec95-4099-bb1c-945710d157af
+ActivityId: 49c76e12-937e-477c-bc64-4506d13649cc
+X-TFS-Session: 948bac6d-6d1d-4fa3-8fe8-5a6ecbaaff2a
+X-VSS-E2EID: d55cb691-7d2a-437d-b156-ade2ae89e25e
+X-VSS-SenderDeploymentId: a07ab14e-025a-39c3-8d53-788cd7ce207f
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 5A6AE1E789284FF7A0EFBBC913D6305C Ref B: SGEEDGE0420 Ref C: 2021-12-14T02:44:54Z
+Date: Tue, 14 Dec 2021 02:44:53 GMT
+
+[2021-12-14 02:44:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:44:54Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2021-12-14 02:44:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-12-14 02:44:55Z INFO CommandSettings] Arg 'work': ''
+[2021-12-14 02:44:55Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-12-14 02:44:55Z INFO PromptManager] ReadValue
+[2021-12-14 02:44:55Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-12-14 02:44:55Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-12-14 02:44:55Z INFO Terminal] READ LINE
+[2021-12-14 02:44:58Z INFO Terminal] Read value: ''
+[2021-12-14 02:44:58Z INFO PromptManager] Falling back to the default: '_work'
+[2021-12-14 02:44:58Z INFO ConfigurationStore] Saving runner settings.
+[2021-12-14 02:44:58Z INFO ConfigurationStore] Settings Saved.
+[2021-12-14 02:44:58Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:58Z INFO Terminal] WRITE LINE: 
+[2021-12-14 02:44:58Z INFO OsxServiceControlManager] Service name 'actions.runner.sherylann-hc-vault-action-snapshot.vault-snapshot' display name 'GitHub Actions Runner (sherylann-hc-vault-action-snapshot.vault-snapshot)' will be used for service configuration.
+[2021-12-14 02:44:58Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:58Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:58Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:58Z INFO HostContext] Well known directory 'Bin': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2021-12-14 02:44:58Z INFO HostContext] Well known directory 'Root': '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:58Z INFO UnixUtil] Which: 'chmod'
+[2021-12-14 02:44:58Z INFO UnixUtil] Location: '/bin/chmod'
+[2021-12-14 02:44:58Z INFO UnixUtil] Running /bin/chmod 755 "/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/svc.sh"
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper] Starting process:
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner/svc.sh"'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Working directory: '/Users/sheryl-annlee/Desktop/Demos/vault/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper] Process started with process id 57251, waiting for process exit.
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-12-14 02:44:58Z INFO ProcessInvokerWrapper] Finished process 57251 with exit code 0, and elapsed time 00:00:00.0101023.
+[2021-12-14 02:44:58Z INFO Listener] Runner execution has finished with return code 0
